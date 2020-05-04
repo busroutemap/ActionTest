@@ -2,6 +2,9 @@
 GitHubActionを試す
 - https://help.github.com/ja/actions/building-actions/creating-a-javascript-action
 
+# メモ
+今ひとつ理解しきれない。とりあえずアーカイブ化。
+
 # Hello world javascript action
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
